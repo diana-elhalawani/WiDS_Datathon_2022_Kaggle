@@ -3,6 +3,8 @@
 
 # Data Preparation | Linear regresssion model planning, building and evaluation in R Studio
 
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />Ce(tte) œuvre est mise à disposition selon les termes de la <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Licence Creative Commons Attribution 4.0 International</a>.
+
 Climate change is a pressing issue facing our species. Climate change mitigation measures are actions taken by national and local governments and businesses to 
 reduce greenhouse gas emissions. According to the International Energy Agency (IEA), in 2021, the operation of buildings for heating, cooling and other electricity
 consumption produced 27% of the emissions in the energy sector.
